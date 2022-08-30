@@ -1,0 +1,58 @@
+body{
+	margin:0;
+	padding:0;
+}
+.demo{
+	width:800px;
+	min-height:600px;
+	background: yellow;
+	background-image:url(../imgs/pexelback.jpg);
+	float:left;
+}
+.demo1{
+	width:400px;
+	height:400px;
+	
+	background:red;
+	
+	float:left;
+	border-radius: 50%;
+}
+p{
+	margin-top:100px;
+	
+}
+/*.demo1 i{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	margin-top:50px;
+}*/
+/*.demo2{
+	width:200px;
+	height:200px;
+	background:violet;
+	float:left;
+	position:relative;
+	left:50px;
+	z-index:3;
+	opacity: 0.7;
+	border-radius: 50%
+	
+
+}
+.demo3{
+	width:200px;
+	height:200px;
+	background:green;
+	float:left;
+	position:relative;
+	border-radius:50%;
+	z-index: 2;
+	opacity:0.7;
+
+}
+.demoi{
+	width:800px;
+	min-height:200px;
+}*/
